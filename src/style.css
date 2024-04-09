@@ -1,0 +1,12 @@
+.kebun {
+    background-image: url(../public/image/Kebun.jpg);
+    height: 100vh;
+    z-index: -1;
+}
+
+.buttonimage {
+    font-size: 2rem;
+    padding: 15px 10px;
+    background-color: green;
+    margin: 1rem;
+}
